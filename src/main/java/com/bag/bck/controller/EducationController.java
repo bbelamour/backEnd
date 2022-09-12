@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://frontargprograma.web.app")
 @RequestMapping("/education")
 @RestController
 public class EducationController {
