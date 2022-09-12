@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin("https://frontargprograma.web.app/")
+@CrossOrigin("http://localhost:4200")
 @RequestMapping("/people")
 public class PersonController {
 
