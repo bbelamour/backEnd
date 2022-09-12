@@ -13,3 +13,7 @@ MySQL Workbench (https://www.mysql.com/downloads): versión 8.0 CE para la reali
 Postman (https://app.getpostman.com/app/download/win64): versión 9.27.0 para peticiones en el backend
 
 Se implementó JWT para las validaciones del login
+
+Acceso al DER de la base de datos: 
+
+![der](https://user-images.githubusercontent.com/93689382/189555265-45da7f22-e48e-45b3-ace8-877acb90f3f8.png)
