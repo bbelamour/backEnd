@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://belenag-portfolio.web.app")
 @RequestMapping("/people")
 public class PersonController {
 
